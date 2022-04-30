@@ -7,3 +7,5 @@ This script requires many inputs that are combined to compute frontal ablation a
 If you are interested in working with this script on your own, please contact me (willkochtitzky@gmail.com) and I can help you, gladly.
 
 I have also included a yml file to set up the environment that I ran this script in. This can be installed with Anaconda.
+
+This repository has two scripts: one which will compute frontal ablation (without_plots) and the other which will generate all the plots in our publication (plots_only).
