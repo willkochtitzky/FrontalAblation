@@ -14,9 +14,9 @@ This repository has four scripts: two of which will compute frontal ablation (wi
 Greenland_frontal_ablation_plots_only_v1.ipynb - generate all the plots that make up the publication
 Greenland_Frontal_Ablation_v3.ipynb - the script that combines observations (thickness, velocity, etc) into frontal ablation estimates
 Pan_Arctic_Discharge_v7_plots_only_v3.ipynb - generate all the plots that make up the publication
-Pan_Arctic_discharge_v7_without_plots_v9.ipynb - the script that combines observations (thickness, velocity, etc) into frontal ablation estimates
+Pan_Arctic_discharge_v7_without_plots_v10.ipynb - the script that combines observations (thickness, velocity, etc) into frontal ablation estimates
 
-Pan_Arctic_discharge_v7_regional_error_calculations_v2.ipynb - this script will compute the regional error analysis given the inputs from the Pan_Arctic_discharge_v7_without_plots_v9.ipynb script.
+Pan_Arctic_discharge_v7_regional_error_calculations_v2.ipynb - this script will compute the regional error analysis given the inputs from the Pan_Arctic_discharge_v7_without_plots_v10.ipynb script.
 
 The two scripts to generate frontal ablation estimates are extremely similar (the Pan_Arctic script was developed first).
 
