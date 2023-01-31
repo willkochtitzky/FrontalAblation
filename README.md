@@ -9,6 +9,8 @@ I make the script availible here because bad code is better than no code. I am h
 
 I have also included a yml file to set up the environment that I ran this script in. This can be installed with Anaconda.
 
+The fluxgates for all Arctic marine-temrinating glaciers as well as all outlet of the Greenland Ice Sheet are availible here. 
+
 This repository has four scripts: two of which will compute frontal ablation (without_plots) and the others which will generate all the plots in our publications (plots_only).
 
 Greenland_frontal_ablation_plots_only_v1.ipynb - generate all the plots that make up the publication
